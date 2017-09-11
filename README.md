@@ -1,0 +1,2 @@
+# parseurl
+urlをパースするためのpython code memo
